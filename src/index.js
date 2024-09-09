@@ -11,6 +11,7 @@ import ProductsPage from './landing_page/products/ProductsPage';
 import SignupPage from './landing_page/signup/Signup';
 import SupportPage from './landing_page/support/SupportPage';
 import NotFound from './landing_page/NotFound';
+import 'react-toastify/dist/ReactToastify.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
